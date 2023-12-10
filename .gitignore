@@ -1,0 +1,35 @@
+# Node.js
+node_modules/
+
+upload/
+
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+.idea/
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.idea/
+.vscode/
+# Optional: Uncomment the following line if you're using TypeScript
+#*.tsbuildinfo
+
+# Optional: Uncomment the following lines if you're using Yarn
+# yarn-error.log
+# .yarn-integrity
+
+# Optional: Uncomment the following line if you're using npm
+# package-lock.json
